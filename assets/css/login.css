@@ -39,16 +39,16 @@ body {
 
 .layui-form-item {
     position: relative;
-    margin-top: 8px;
+    /* margin-top: 8px; */
 }
 
-/* .login-box .layui-form-item { 
+.login-box .layui-form-item { 
     margin-top: 20px;
 }
 
 .reg-box .layui-form-item {
     margin-top: 2px;
-} */
+}
 
 .layui-icon {
     position: absolute;
