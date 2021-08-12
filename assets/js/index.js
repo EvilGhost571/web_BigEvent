@@ -1,4 +1,5 @@
 $(function () {
+
     // 调用 getUserInfo 获取用户基本信息
     getUserInfo ()
     
